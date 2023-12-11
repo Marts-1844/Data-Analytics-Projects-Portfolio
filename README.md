@@ -41,7 +41,15 @@ These projects reflect my commitment to applying practical solutions to real-wor
 
 ### Python Projects
 
-#### Project 1: [Dr. Semmelweis and the Discovery of Handwashing](Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
+#### Project 1: [Generating Keywords for Google Ads](Python/Generating%20Keywords%20for%20Google%20Ads/notebook.ipynb)
+
+- **Description:**
+In this project, the goal is to create a prototype set of keywords for a search engine marketing (SEM) campaign for a massive online furniture retailer's sofas section. The task involves leveraging Python skills to efficiently generate keywords that align with the client's requirements, ensuring a focus on low-cost, price-sensitive customers and utilizing tightly targeted keywords set to exact and phrase match.
+- **Key Skills Applied:**
+  - 💡 Employed Python programming to automate the generation of keywords, showcasing proficiency in scripting for efficient and scalable solutions.
+  - 💡 Utilized pandas to organize, transform, and structure the generated keyword data.
+
+#### Project 2: [Dr. Semmelweis and the Discovery of Handwashing](Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 - **Description:** 
 This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungarian physician in the 1840s, who discovered the critical role of handwashing in reducing childbed fever deaths at the Vienna General Hospital. Through Python, the analysis focuses on the historical dataset that led to Semmelweis's realization, shedding light on the significance of hygiene practices in healthcare.
@@ -50,7 +58,7 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
   - 💡 Applied statistical techniques, including calculating death proportions and conducting a bootstrap analysis, to demonstrate a statistically significant reduction in mortality post handwashing.
   - 💡 Emphasizing the importance of statistical evidence in influencing medical practices during the 1800s.
 
-#### Project 2: [Mobile Games AB Testing with Cookie Cats](Python/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb)
+#### Project 3: [Mobile Games AB Testing with Cookie Cats](Python/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb)
 
 - **Description:** This analysis explores the impact of moving the gate in the mobile puzzle game "Cookie Cats" from level 30 to level 40. The focus is on player retention, specifically 1-day and 7-day retention, using AB-test data and employing bootstrap analysis to assess the uncertainty of the observed differences.
 - **Key Skills Applied:**
@@ -58,7 +66,7 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
   - 💡 Conducting AB-test analysis, calculating retention rates, and using bootstrap methods to estimate uncertainty.
   - 💡 Drawing conclusions based on statistical findings, providing actionable insights, and making a recommendation regarding the gate placement.
 
-#### Project 3: [The GitHub History of the Scala Language](Python/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)
+#### Project 4: [The GitHub History of the Scala Language](Python/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)
 
 - **Description:** An analysis of the GitHub history of the Scala programming language is conducted using real-world project repository data. The investigation includes data preparation, cleaning, merging, and visualization to gain insights into the project's development dynamics, contributors, and recent changes. Key aspects covered involve examining project activity over time, assessing community dynamics, identifying significant contributors, and understanding recent changes to specific files.
 - **Key Skills Applied:**
@@ -66,7 +74,7 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
   - 💡 Merged DataFrames for holistic pull request and file modification analysis, employing groupby and aggregation for insightful project activity and contributor behavior analysis.
   - 💡 Generated impactful visualizations (e.g., bar charts) for effective communication.
 
-#### Project 4: [What's in an Avocado Toast - A Supply Chain Analysis](Python/What's%20in%20an%20Avocado%20Toast%20-%20A%20Supply%20Chain%20Analysis/notebook.ipynb)
+#### Project 5: [What's in an Avocado Toast - A Supply Chain Analysis](Python/What's%20in%20an%20Avocado%20Toast%20-%20A%20Supply%20Chain%20Analysis/notebook.ipynb)
 
 - **Description:** The project involves conducting a supply chain analysis of three key ingredients in avocado toast—avocado, olive oil, and sourdough—utilizing the Open Food Facts database. Through data manipulation and analysis, the aim is to gain insights into the complex supply chain dynamics, including origin countries of these ingredients.
 - **Key Skills Applied:**
