@@ -96,9 +96,9 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
 
 - **Description:** The primary objective is to discern the evolution of naming preferences over time and unravel the demographic factors steering these choices. Employing statistical models and data visualization techniques, this project aims to present a comprehensive overview of the cultural dynamics influencing naming trends.
 - **Key Skills Applied:**
-  - 💡 Utilized SQL queries to extract, aggregate, and analyze baby name data, showcasing proficiency in data manipulation and exploration.
-  - 💡 Employed window functions to rank and analyze trends, specifically demonstrated in the examination of the popularity trajectory of the name 'Olivia' over the years.
-  - 💡 Applied conditional statements and grouping to classify names into categories like 'Classic', 'Semi-classic', 'Semi-trendy', and 'Trendy', showcasing pattern recognition skills in data interpretation.
+  - 💡 Utilized SQL queries to extract, aggregate, and analyze baby name data.
+  - 💡 Employed window functions to rank and analyze trends in the examination of the popularity trajectory of the name 'Olivia' over the years.
+  - 💡 Applied conditional statements and grouping to classify names into categories like 'Classic', 'Semi-classic', 'Semi-trendy', and 'Trendy' to show pattern recognition skills in data interpretation.
 
 #### Project 2: [Analyzing NYC Public School Test Result Scores](SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
 
@@ -115,10 +115,20 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
   - 💡 Utilized advanced SQL queries to analyze product data, including pricing, reviews, and website traffic, for an online sports retail company.
   - 💡 Applied techniques such as labeling price ranges and aggregating data to gain insights into product categories and revenue distribution.
   - 💡 Investigated relationships within the dataset, such as the correlation between product reviews and revenue, to provide recommendations for revenue optimization.
+
 #### Project 4: [When Was the Golden Age of Video Games?](SQL/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb)
 
 - **Description:** The objective of this project is to uncover the golden age of video games by meticulously analyzing sales data, critic scores, and user reviews for the top 400 video games released since 1977. Through the strategic use of SQL queries, joins, and set theory operations, the project aims to pinpoint the years that stand out as the most exceptional for video game enthusiasts.
 - **Key Skills Applied:**
-  - 💡 Utilized SQL queries to join and analyze data from multiple tables, extracting relevant information for decision-making.
+  - 💡 Utilized SQL queries to join and analyze data from multiple tables to extract relevant information for decision-making.
   - 💡 Employed set operations such as INTERSECT and EXCEPT to compare and identify common elements across different datasets.
   - 💡 Analyzed critic and user scores, sales data, and game release years to draw insights into the golden age of video games.
+
+#### Project 5: [Analyzing Students' Mental Health in SQL](SQL/Analyzing%20Students'%20Mental%20Health%20in%20SQL/notebook.ipynb)
+
+- **Description:** In this project, the goal is to investigate factors influencing students' mental health in an international university setting. By using PostgreSQL skills, the dataset is explored to understand the distribution of student types, delve into diagnostic test scores, and examine the impact of the length of stay on international students' mental health. Through SQL queries and aggregate functions, the project aims to provide insights into the variables contributing to students' well-being, shedding light on potential areas for support and improvement.
+- **Key Skills Applied:**
+  - 💡 Utilized aggregate functions such as MIN(), MAX(), and AVG() to compute summary statistics to gain insights into the distribution of diagnostic scores.
+  - 💡 Filter data based on specific conditions to allow a focused examination of distinct student types and subsets.
+  - 💡 Sorting and ordering results in a meaningful way to identify trends and patterns in the impact of length of stay on international students' mental health.
+
