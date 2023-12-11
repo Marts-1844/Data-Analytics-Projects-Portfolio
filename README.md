@@ -81,7 +81,15 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
   - 💡 Applied pandas for reading, filtering, and transforming data to extract relevant information.
   - 💡 Utilized analytical skills to investigate and understand the complex supply chain of avocado toast ingredients.
   - 💡 Employed Python to identify and communicate the top origin countries for each ingredient.
-  
+
+#### Project 6: [Hypothesis Testing in Healthcare](Python/Hypothesis%20Testing%20in%20Healthcare/notebook.ipynb)
+
+- **Description:** This project involves conducting hypothesis tests to determine the significance of adverse reactions to a hypothetical pharmaceutical drug. As part of a non-profit advocating for drug safety, the analysis aims to assess whether the adverse effects differ significantly between two treatment groups (Drug and Placebo), if the number of adverse effects is independent of the treatment, and if there's a significant age difference between the groups.
+- **Key Skills Applied:**
+  - 💡 Statistical hypothesis testing using Python, specifically the two-sample proportions z-test, Chi-square test, and Jarque–Bera test.
+  - 💡 Data manipulation and analysis using pandas for grouping, aggregating, and extracting relevant information from the dataset.
+  - 💡 Data visualization and interpretation using seaborn.
+
 ### SQL Projects
 
 #### Project 1: [Analyzing American Baby Name Trends](SQL/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
