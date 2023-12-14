@@ -90,6 +90,13 @@ This project revisits the groundbreaking work of Dr. Ignaz Semmelweis, a Hungari
   - 💡 Data manipulation and analysis using pandas for grouping, aggregating, and extracting relevant information from the dataset.
   - 💡 Data visualization and interpretation using seaborn.
 
+#### Project 7: [Hypothesis Testing with Men's and Women's Soccer Matches](Python/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches/notebook.ipynb)
+- **Description:** In this project, I conducted a statistical hypothesis test to determine if more goals are scored in women's international soccer matches compared to men's. Focusing exclusively on official FIFA World Cup matches since January 1, 2002
+- **Key Skills Applied:**
+  - 💡 Employed pandas to load and preprocess data from two CSV files containing results of men's and women's international football matches and filter for FIFA World Cup matches post-2002.
+  - 💡 Employed matplotlib and seaborn to create a histogram illustrating the distribution of goal scores in men's and women's matches to check if distributions are normally distrbuted or not.
+  - 💡 Utilized hypothesis test, specifically the Wilcoxon-Mann-Whitney test, to compare mean goal scores of men' and women' matches.
+
 ### SQL Projects
 
 #### Project 1: [Analyzing American Baby Name Trends](SQL/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
